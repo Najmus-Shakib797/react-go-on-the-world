@@ -2,3 +2,6 @@
   border: 2px solid tomato;
   border-radius: 20px;
 }
+.visited-country {
+  background-color: rgb(216, 238, 238);
+}
